@@ -1,0 +1,14 @@
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\bin\Debug\net6.0\TestDataReaders.deps.json
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\bin\Debug\net6.0\TestDataReaders.dll
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\bin\Debug\net6.0\TestDataReaders.pdb
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\obj\Debug\net6.0\TestDataReaders.csproj.AssemblyReference.cache
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\obj\Debug\net6.0\TestDataReaders.csproj.ResolveComReference.cache
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\obj\Debug\net6.0\TestDataReaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\obj\Debug\net6.0\TestDataReaders.AssemblyInfoInputs.cache
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\obj\Debug\net6.0\TestDataReaders.AssemblyInfo.cs
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\obj\Debug\net6.0\TestDataReaders.csproj.CoreCompileInputs.cache
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\obj\Debug\net6.0\TestDataReaders.dll
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\obj\Debug\net6.0\refint\TestDataReaders.dll
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\obj\Debug\net6.0\TestDataReaders.pdb
+C:\source\RegressionstestTestDataReader\TestDataReaders\TestDataReaders\obj\Debug\net6.0\ref\TestDataReaders.dll
